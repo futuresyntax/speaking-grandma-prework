@@ -8,15 +8,3 @@ else phrase == "I LOVE YOU GRANDMA!"
   end
 
 end 
-
-  
-
-
-
-
-
-
-
-
-
-
